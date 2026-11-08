@@ -25,11 +25,12 @@ Developed an LSTM-based NLP model to classify online comments into five toxicity
 
 ### Currently Working On
 
-Developing a monthly rainfall forecasting project for Pakistan using historical climate data and exploring machine learning approaches for time-series forecasting.
+Right now, my focus is on exploring two different domains of Machine Learning:
 
-### Next Project
+1. **Time-Series Forecasting:** Developing a Monthly Rainfall Forecasting model for Pakistan 🇵🇰 based on historical climate data.
+2. **Computer Vision:** Building an Urdu Handwritten Digit Recognition system using Python, OpenCV, and ML classifiers.
 
-After completing my rainfall forecasting project, I plan to develop a **Computer Vision project using Python and OpenCV** to gain more hands-on experience in image processing and explore practical applications of computer vision.
+Looking forward to sharing the results and repositories soon!
 
 ### Research Interests
 
